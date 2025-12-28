@@ -89,7 +89,7 @@ My work focuses on **practical AI adoption**, scalable system design, and improv
 - 🔹 Focus on actionable insights  
 
 🔗 Repo: https://github.com/riteshsingh84/FinVeda  
-🖼️ Screenshot (add later):
+🖼️ [Demo](riteshsingh84.github.io/FinVeda)
 
 ---
 
@@ -101,7 +101,7 @@ My work focuses on **practical AI adoption**, scalable system design, and improv
 - 🔹 Real-world use cases  
 
 🔗 Repo: https://github.com/riteshsingh84/CopilotLearningPath
-
+🖼️ [Demo](riteshsingh84.github.io/CopilotLearningPath)
 ---
 
 ### ⚙️ Other Notable Repositories
