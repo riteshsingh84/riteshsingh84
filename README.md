@@ -1,3 +1,95 @@
+<!-- ===================================================== -->
+<!--              GitHub Profile README                    -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+<h1>Hi 👋, I'm Ritesh Singh</h1>
+
+<h3>AI Engineer | Software Architect | Product Engineer | Engineering Leader</h3>
+
+<p>
+Leading the intersection of AI, architecture, and engineering excellence.
+</p>
+
+<p>
+  <a href="https://riteshsingh84.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/riteshsingh84">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://x.com/lalriteshsingh">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+  </a>
+  <a href="https://github.com/riteshsingh84">
+    <img src="https://img.shields.io/github/followers/riteshsingh84?style=for-the-badge"/>
+  </a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=riteshsingh84&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I’m an **AI Engineering Lead & Software Architect** with deep experience building **AI-powered products**, **enterprise platforms**, and **cloud-native systems**.
+
+My work focuses on **practical AI adoption**, scalable system design, and improving **developer productivity** using **GitHub Copilot, LLMs, and automation**.
+
+- 🏗️ Architecting scalable, secure platforms  
+- 🤖 Applying AI to real business problems  
+- 🚀 Leading engineering teams & mentoring developers  
+- ☁️ Cloud-native, DevOps-first mindset  
+
+🌐 **Portfolio:** [riteshsingh84.github.io](https://riteshsingh84.github.io/)
+
+---
+
+## 🚀 What I’m Currently Working On
+
+- 🤖 **AI-assisted engineering workflows** (Copilot, Agents, Automation)
+- 📊 **FinVeda** – AI-powered investment analytics platform
+- ☁️ **Modern cloud architectures** with CI/CD & observability
+- 🧠 Exploring **multi-modal AI, prompt engineering & tooling**
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,ts,angular&theme=dark" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,docker,githubactions&theme=dark" />
+</p>
+
+### 🤖 AI & Productivity
+<p>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🚀 FinVeda
+**AI-powered investment insights & analytics**
+
+- 🔹 AI-driven recommendations  
+- 🔹 Clean, scalable architecture  
+- 🔹 Focus on actionable insights  
+
+🔗 Repo: https://github.com/riteshsingh84/FinVeda  
+🖼️ Screenshot (add later):
 
 ---
 
