@@ -101,6 +101,7 @@ My work focuses on **practical AI adoption**, scalable system design, and improv
 - 🔹 Real-world use cases  
 
 🔗 Repo: https://github.com/riteshsingh84/CopilotLearningPath
+
 🖼️ [Demo](https://riteshsingh84.github.io/CopilotLearningPath)
 
 ---
@@ -120,13 +121,13 @@ My work focuses on **practical AI adoption**, scalable system design, and improv
 <div align="center">
 
 <!-- Overall Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=riteshsingh84&show_icons=true&theme=radical&hide_border=true" />
+<img alt="Ritesh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=riteshsingh84&show_icons=true&count_private=true&hide_border=true&theme=radical" />
 
 <!-- Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=riteshsingh84&theme=radical&hide_border=true" />
 
-<!-- Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshsingh84&layout=compact&theme=radical&hide_border=true" />
+<!-- Top Languages -->
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshsingh84&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
