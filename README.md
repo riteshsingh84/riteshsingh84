@@ -6,7 +6,7 @@
 
 <h1>Hi 👋, I'm Ritesh Singh</h1>
 
-<h3>AI Engineer | Software Architect | Product Engineer | Engineering Leader</h3>
+<h3>AI Engineer & Consultant | Software Architect | Product Engineer | Transformational Leader & Mentor | Certified SAFe® 6 Agilist</h3>
 
 <p>
 Leading the intersection of AI, architecture, and engineering excellence.
