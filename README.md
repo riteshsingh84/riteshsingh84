@@ -84,9 +84,9 @@ My work focuses on **practical AI adoption**, scalable system design, and improv
 ### 🚀 FinVeda
 **AI-powered investment insights & analytics**
 
-- 🔹 AI-driven recommendations  
-- 🔹 Clean, scalable architecture  
-- 🔹 Focus on actionable insights  
+- AI-driven recommendations  
+- Clean, scalable architecture  
+- Focus on actionable insights  
 
 🔗 Repo: https://github.com/riteshsingh84/FinVeda  
 🖼️ [Demo](https://riteshsingh84.github.io/FinVeda)
@@ -96,9 +96,9 @@ My work focuses on **practical AI adoption**, scalable system design, and improv
 ### 🧠 Copilot Learning Path
 **Structured roadmap to master GitHub Copilot**
 
-- 🔹 Best practices & workflows  
-- 🔹 Prompt engineering examples  
-- 🔹 Real-world use cases  
+- Best practices & workflows  
+- Prompt engineering examples  
+- Real-world use cases  
 
 🔗 Repo: https://github.com/riteshsingh84/CopilotLearningPath
 
