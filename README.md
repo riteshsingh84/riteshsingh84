@@ -6,7 +6,7 @@
 
 <h1>Hi 👋, I'm Ritesh Singh</h1>
 
-<h3>AI Engineer & Consultant | Software Architect | Product Engineer | Transformational Leader & Mentor | Certified SAFe® 6 Agilist</h3>
+<h3>AI Engineer & Consultant | Software Architect | Building Scalable AI-Driven Products | Helping Teams Ship Faster & Smarter</h3>
 
 <p>
 Leading the intersection of AI, architecture, and engineering excellence.
@@ -37,6 +37,9 @@ Leading the intersection of AI, architecture, and engineering excellence.
 
 ## 👨‍💻 About Me
 
+I build AI-powered products that scale in production not just demos.
+
+With 18+ years of experience across India and Switzerland, I work at the intersection of AI engineering, software architecture, and product delivery, helping teams convert AI investments into reliable, business-ready systems.
 I’m an **AI Engineering Lead & Software Architect** with deep experience building **AI-powered products**, **enterprise platforms**, and **cloud-native systems**.
 
 My work focuses on **practical AI adoption**, scalable system design, and improving **developer productivity** using **GitHub Copilot, LLMs, and automation**.
