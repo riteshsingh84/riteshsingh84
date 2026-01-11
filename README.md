@@ -119,21 +119,6 @@ My work focuses on **practical AI adoption**, scalable system design, and improv
 
 ---
 
-## 📊 GitHub Insights
-
-<div align="center">
-
-<!-- Overall Stats -->
-
-<!-- Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=riteshsingh84&theme=radical&hide_border=true" />
-
-<!-- Top Languages -->
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
