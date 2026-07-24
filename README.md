@@ -56,7 +56,7 @@ My work focuses on **practical AI adoption**, scalable system design, and improv
 ## 🚀 What I’m Currently Working On
 
 - 🤖 **AI-assisted engineering workflows** (Copilot, Agents, Automation)
-- 📊 **WealthBodha.ai** – India's First AI-Powered Behavioral Finance Platform for Investors
+- 📊 **[WealthBodha.ai](https://wealthbodha.vercel.app/)** – India's First AI-Powered Behavioral Finance Platform for Investors
 - ☁️ **Modern cloud architectures** with CI/CD & observability
 - 🧠 Exploring **multi-modal AI, prompt engineering & tooling**
 
